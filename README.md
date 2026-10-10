@@ -4,7 +4,6 @@ Bioengineering at **IIT (BHU) Varanasi** ('29). I work where markets, machine le
 
 - Trading Indian equities by hand for 2+ years, and now testing those ideas in code as a member of the Quant Club, IIT (BHU)
 - Building **Geneticker** (co-founder): Cipher reads a person's DNA file on their own device, and Decipher lets researchers run aggregate-only queries across consenting participants
-- Running a self-hosted app server for my own tools at [akshatxagrawal.com](https://akshatxagrawal.com) (beta)
 
 ### Selected work
 
@@ -37,4 +36,4 @@ Bioengineering at **IIT (BHU) Varanasi** ('29). I work where markets, machine le
 
 ### Reach me
 
-[akshatxagrawal@gmail.com](mailto:akshatxagrawal@gmail.com) · [geneticker.com](https://geneticker.com) · open to a Dec–Jan internship in applied ML, data or quant research
+[LinkedIn](https://www.linkedin.com/in/the-akshat-agrawal) · [akshatxagrawal@gmail.com](mailto:akshatxagrawal@gmail.com) · [geneticker.com](https://geneticker.com) · open to a Dec–Jan internship in applied ML, data or quant research
